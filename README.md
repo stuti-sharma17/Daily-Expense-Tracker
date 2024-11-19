@@ -52,11 +52,11 @@ changes credentials in sql.php file with your database credentials.
 
 ## Support
 
-For support, email adarsh6158@gmail.com .
+For support, email stutis070@gmail.com .
 
 
 ## 🔗 Link\
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-35a9931ba/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/stuti-sharma-a180b8265/])
 
